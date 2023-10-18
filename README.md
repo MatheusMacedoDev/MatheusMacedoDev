@@ -1,6 +1,6 @@
 ## Olá! Eu sou Matheus! 👋
 Um estudante e aficionado por **programação** e **desenvolvimento de aplicações**. Gosto disso desde que era criança e logo comecei a estudar como um **autodidata**. 
-<p>💻 Atualmento curso <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI de Infórmática</strong>.</p>
+<p>💻 Atualmente curso <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI de Infórmática</strong>.</p>
 
 
 <br/>

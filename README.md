@@ -8,7 +8,7 @@ Um estudante e aficionado por **programação** e **desenvolvimento de aplicaç�
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMacedoDev&show_icons=true&count_private=true&hide_border=true&ring_color=ea1233&title_color=ffffff&icon_color=ea1233&rank-circle_color=ea1233&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusMacedoDev&show_icons=true&count_private=true&hide_border=true&ring_color=ea1233&title_color=ffffff&icon_color=ea1233&rank-circle_color=ea1233&text_color=ffffff&bg_color=0d1117" alt="Matheus Macedo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMacedoDev&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 

@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-1366.gif" width="300"/>
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/matheus-macedo-santos-878ab32a5">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=MatheusMacedoDev&abbreviated=true&color=lightgrey&label=Views" alt="LinkedIn Badge"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/matheus-macedo-santos-878ab32a5">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 ## Olá! Eu sou Matheus! 👋
 Um estudante e aficionado por **programação** e **desenvolvimento de aplicações**. Gosto de tecnologia desde de criança e busco aprender sempre mais.
@@ -72,6 +74,8 @@ Um estudante e aficionado por **programação** e **desenvolvimento de aplicaç�
 
 <br/>
 <br/>
+
+### :fire: Estatísticas
 
 ---
 

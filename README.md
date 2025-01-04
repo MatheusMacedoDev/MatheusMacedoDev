@@ -15,7 +15,7 @@ Um estudante e aficionado por **programação** e **desenvolvimento de aplicaç�
 <br/>
 
 ### ☺️ Sobre Mim
-- 🔭 Estou trabalhando atualmente no projeto [PaySys](https://github.com/MatheusMacedoDev/paysys-backend)
+- 🔭 Estou trabalhando atualmente no meu [Portfólio](https://github.com/MatheusMacedoDev/developer-portfolio)
 - 🌱 Atualmente estou aprendendo **Domain-Driven Design** e **Test-Driven Design**
 - ⚡ Curiosidade: Iniciei meus estudos como um autodidata aos **11 anos**
 

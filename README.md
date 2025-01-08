@@ -23,7 +23,7 @@ Um estudante e aficionado por **programação** e **desenvolvimento de aplicaç�
 
 ### 🎓 Formação Acadêmica
 - 💻 Cursando **Desenvolvimento de Sistemas** no **SENAI de Infórmática**.<br/>
-- 📖 Graduando em **Bacharelado em Ciência e Tecnologia** na **UFABC**.
+- 📖 Graduando no **Bacharelado em Ciência e Tecnologia** na **UFABC**.
 
 <br/>
 
